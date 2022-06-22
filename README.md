@@ -2,7 +2,7 @@
 - 👀 I’m interested in gain more knowledge
 - 🌱 I’m currently learning about Mysql, html, javascript
 <div align="center">
-  <a href="https://github.com/gomesyara">
+  <a href="https://github.com/gomesyara">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomesyara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesyara&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
