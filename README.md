@@ -1,6 +1,6 @@
 ## Oiii eu sou a Yara Gomes, estudante de programação!
-- 👀 I’m interested in gain more knowledge
-- 🌱 I’m currently learning about Mysql, html, javascript
+- 👀 I’m interested in gain more knowledge.
+- 🌱 I’m currently learning about Mysql, html, JS, PHP, e pascal.
 <div align="center">
   <a href="https://github.com/gomesyara">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gomesyara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
